@@ -1,0 +1,25 @@
+{
+  "name": "leilao",
+  "version": "1.0.0",
+  "description": "Sistema de leilão em Javascript com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renataventini/leilao-js.git"
+  },
+  "keywords": [
+    "leilao"
+  ],
+  "author": "Renata",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/renataventini/leilao-js/issues"
+  },
+  "homepage": "https://github.com/renataventini/leilao-js#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
